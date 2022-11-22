@@ -1,0 +1,1 @@
+haciendo configuracion de visual y git basics 
